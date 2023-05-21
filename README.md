@@ -11,9 +11,9 @@ MER with casme2
 with MACRO F1 suggested in https://facial-micro-expressiongc.github.io/MEGC2019/images/MEGC2019%20Recognition%20Challenge.pdf 
 _________________________________________
 
-
-- Link to download models:
-- Run evaluation with S3_results/V3/f1calc.ipynb
+- data_aug_nodenoise.ipynb holds image augmentation pipeline
+- Link to download models: https://tm-mmnet-eval.s3.ap-southeast-1.amazonaws.com/V3_eval.zip
+  - Run evaluation with f1calc.ipynb after zip extraction to 
 
 Models based on MMnet
 @article{li2022mmnet,

@@ -13,7 +13,7 @@ _________________________________________
 
 - data_aug_nodenoise.ipynb holds image augmentation pipeline
 - Link to download models: https://tm-mmnet-eval.s3.ap-southeast-1.amazonaws.com/V3_eval.zip
-  - Run evaluation with f1calc.ipynb after zip extraction to 
+  - Run evaluation with f1calc.ipynb after zip extraction to evaluate
 
 Models based on MMnet
 @article{li2022mmnet,

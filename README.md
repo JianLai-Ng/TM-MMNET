@@ -15,3 +15,10 @@ _________________________________________
 - Link to download models:
 - Run evaluation with S3_results/V3/f1calc.ipynb
 
+Models based on MMnet
+@article{li2022mmnet,
+  title={MMNet: Muscle motion-guided network for micro-expression recognition},
+  author={Li, Hanting and Sui, Mingzhe and Zhu, Zhaoqing and Zhao, Feng},
+  journal={arXiv preprint arXiv:2201.05297},
+  year={2022}
+}

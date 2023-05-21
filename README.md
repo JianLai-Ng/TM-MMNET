@@ -12,6 +12,6 @@ with MACRO F1 suggested in https://facial-micro-expressiongc.github.io/MEGC2019/
 _________________________________________
 
 
-Link to download models:
-Run evaluation with S3_results/V3/f1calc.ipynb
+- Link to download models:
+- Run evaluation with S3_results/V3/f1calc.ipynb
 
